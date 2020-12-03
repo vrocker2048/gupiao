@@ -13,3 +13,4 @@ for el in lis:
         ret.append(el)
 print(ret)
 print(len(ret)==len(lis))
+
