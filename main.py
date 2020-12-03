@@ -10,6 +10,7 @@ from lxml import etree
 
 #567
 # def start():
+
 #     for i in range(1, 21):
 #         page = urllib.request.urlopen(
 #             'http://www.aastocks.com/tc/ipo/ListedIPO.aspx?iid=ALL&orderby=DA&value=DESC&index=%s' % i)
