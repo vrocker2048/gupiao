@@ -140,14 +140,3 @@ detail()
 print(temp)
 df = pd.DataFrame(temp)
 df.to_csv('detail.csv', index=False, encoding='UTF-8-sig')
-
-
-# import pandas as pd
-# import numpy as np
-
-
-# df = pd.read_csv('backup.csv')
-# ret = df['上市编号']
-
-# res = list(ret)[359:]
-# print(res)
