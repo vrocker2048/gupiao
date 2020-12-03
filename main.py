@@ -6,6 +6,9 @@ from lxml import etree
 
 
 
+
+
+
 # def start():
 #     for i in range(1, 21):
 #         page = urllib.request.urlopen(
