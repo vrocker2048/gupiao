@@ -32,7 +32,7 @@ from lxml import etree
 #         ret = ret[3:-2]
 
 #         final.append(ret)
-#123
+
 
 # final = []
 # start()
