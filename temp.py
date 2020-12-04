@@ -14,5 +14,3 @@ for el in lis:
 print(ret)
 print(len(ret)==len(lis))
 
-
-
